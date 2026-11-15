@@ -1,0 +1,6 @@
+[submodule "external/kvcached"]
+	path = external/kvcached
+	url = git@github.com-main:Lancezer/kvcached.git
+[submodule "external/CrossPool"]
+	path = external/CrossPool
+	url = git@github.com-main:Lancezer/CrossPool.git
